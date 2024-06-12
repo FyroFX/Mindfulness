@@ -1,0 +1,1 @@
+<h1>Admin post page</h1><?php /**PATH C:\Users\FyroFX\Mindfulness\resources\views/post.blade.php ENDPATH**/ ?>
